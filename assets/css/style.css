@@ -1,0 +1,11 @@
+#post-body {
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.delete i {
+    color: red;
+}
